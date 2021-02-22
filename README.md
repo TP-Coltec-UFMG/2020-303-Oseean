@@ -7,4 +7,6 @@ O jogo conta com cartas, níveis de dificuldade - quanto mais difícil, maior é
 |:--:| 
 | *Fase 1 do jogo* |
 
+A primeira fase do jogo conta com apenas 4 cartas, sendo dois pares!
+
 Grupo - Emanuelle Rodrigues, Isabela Scarabelli, Tainara Marina e Tatiane Vitória.

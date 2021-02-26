@@ -12,7 +12,7 @@ Ao entrar no jogo, a primeira tela a aparecer é menu e uma audiodescrição par
 
 # Fases
 
-| ![fasee1.jpeg](https://github.com/TP-Coltec-UFMG/Oseean/blob/main/img/fasee1.jpegg) | 
+| ![fasee1.jpeg](https://github.com/TP-Coltec-UFMG/Oseean/blob/main/img/fasee1.jpeg) | 
 |:--:| 
 | *Fase 1 do jogo* |
 

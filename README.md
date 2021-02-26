@@ -7,7 +7,7 @@ O jogo conta com cartas, níveis de dificuldade - quanto mais difícil, maior é
 |:--:| 
 | *Menu* |
 
-| ![fase1.jpeg](https://github.com/TP-Coltec-UFMG/Oseeans/blob/main/img/fase1.jpeg) | 
+ 
 |:--:| 
 | *Fase 1 do jogo* |
 

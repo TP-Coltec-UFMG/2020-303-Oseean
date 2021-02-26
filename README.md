@@ -31,7 +31,7 @@ A segunda fase do jogo conta 6 cartas, sendo 3 pares! A fase 2 conta com uma aud
 A terceira fase do jogo conta 8 cartas, sendo 4 pares! A fase 3 também conta com uma audiodescrição que explica como o jogador irá fazer para achar as cartas na tela e a quantidade de cartas.
 
 # Integrantes do grupo
-*Emanuelle Rodrigues
-*Isabela Scarabelli
-*Tainara Marina
-*Tatiane Vitória
+* Emanuelle Rodrigues
+* Isabela Scarabelli
+* Tainara Marina
+* Tatiane Vitória

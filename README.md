@@ -20,11 +20,13 @@ Ao entrar no jogo, a primeira tela a aparecer é menu e uma audiodescrição par
 
 A primeira fase do jogo conta com apenas 4 cartas, sendo dois pares! A fase 1 conta com uma audiodescrição que explica como o jogador irá fazer para achar as cartas na tela e a quantidade de cartas.
 
+
 | ![fase2.jpeg](https://github.com/TP-Coltec-UFMG/Oseean/blob/main/img/fase2.jpeg) |
 |:--:| 
 | *Fase 2 do jogo* |
 
 A segunda fase do jogo conta 6 cartas, sendo 3 pares! A fase 2 conta com uma audiodescrição que explica como o jogador irá fazer para achar as cartas na tela e a quantidade de cartas.
+
 
 | ![fase3.jpeg](https://github.com/TP-Coltec-UFMG/Oseean/blob/main/img/fase3.jpeg) |
 |:--:| 

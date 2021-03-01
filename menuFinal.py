@@ -119,7 +119,8 @@ class Cartas:
 
 
 
-def menu():
+#def menu():
+if __name__ == "__main__":
 
     welcome.play()
     f1 = Cartas(300, 180, 190, 60, FASE1)

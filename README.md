@@ -11,7 +11,7 @@ O jogo conta com cartas, níveis de dificuldade - quanto mais difícil, maior é
 | *Menu* |
 
 Ao entrar no jogo, a primeira tela a aparecer é menu e uma audiodescrição para que o jogador entenda um pouco sobre o funcionamento dessa tela e possa selecionar qual fase irá começar.
-
+<br>
 # Fases
 
 | ![fasee1.jpeg](https://github.com/TP-Coltec-UFMG/Oseean/blob/main/img/fasee1.jpeg) | 
@@ -20,7 +20,7 @@ Ao entrar no jogo, a primeira tela a aparecer é menu e uma audiodescrição par
 
 A primeira fase do jogo conta com apenas 4 cartas, sendo dois pares! A fase 1 conta com uma audiodescrição que explica como o jogador irá fazer para achar as cartas na tela e a quantidade de cartas.
 
-
+<br>
 
 | ![fase2.jpeg](https://github.com/TP-Coltec-UFMG/Oseean/blob/main/img/fase2.jpeg) |
 |:--:| 
@@ -28,7 +28,7 @@ A primeira fase do jogo conta com apenas 4 cartas, sendo dois pares! A fase 1 co
 
 A segunda fase do jogo conta 6 cartas, sendo 3 pares! A fase 2 conta com uma audiodescrição que explica como o jogador irá fazer para achar as cartas na tela e a quantidade de cartas.
 
-
+<br>
 
 | ![fase3.jpeg](https://github.com/TP-Coltec-UFMG/Oseean/blob/main/img/fase3.jpeg) |
 |:--:| 
@@ -42,7 +42,7 @@ A terceira fase do jogo conta 8 cartas, sendo 4 pares! A fase 3 também conta co
 
 A quarta fase do jogo é considerada mais difícil, comparada as fases anteriores, devido aos sons das cartas serem bem parecidos, dificultando a distinção entre as cartas. Essa fase conta com 10 cartas, sendo 5 pares! 
 
-
+<br>
 
 # Integrantes do grupo
 * Emanuelle Rodrigues

@@ -43,7 +43,7 @@ class Cenario:
         self.f4d.pintar_carta(screen)
         self.quit.pintar_carta(screen)
 
-        texto = " Ossean"
+        texto = " Oseean"
         posicao = (290, 80)
         antialiasing = True
         cor_do_texto = BRANCO

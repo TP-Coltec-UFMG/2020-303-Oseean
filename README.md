@@ -36,6 +36,14 @@ A segunda fase do jogo conta 6 cartas, sendo 3 pares! A fase 2 conta com uma aud
 
 A terceira fase do jogo conta 8 cartas, sendo 4 pares! A fase 3 também conta com uma audiodescrição que explica como o jogador irá fazer para achar as cartas na tela e a quantidade de cartas.
 
+| ![faseDificil.jpeg](https://github.com/TP-Coltec-UFMG/Oseean/blob/main/img/fasedificil.jpeg) |
+|:--:| 
+| *Fase Difícil do jogo* |
+
+A quarta fase do jogo é considerada mais difícil, comparada as fases anteriores, devido aos sons das cartas serem bem parecidos, dificultando a distinção entre as cartas. Essa fase conta com 10 cartas, sendo 5 pares! 
+
+
+
 # Integrantes do grupo
 * Emanuelle Rodrigues
 * Isabela Scarabelli
